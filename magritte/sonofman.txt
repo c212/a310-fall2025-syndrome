@@ -1,0 +1,166 @@
+penup
+goto, 0, 0, 10000, #cacaca
+pendown
+goto, 0, 0, 10000, #cacaca
+
+penup
+goto, 0, 60, 180, #fedfbe
+pendown
+goto, 0, -20, 180, #fedfbe
+penup
+
+goto, 105, 50, 18, #fedfbe
+pendown
+goto, 90, -10, 20, #fedfbe
+penup
+
+goto, -105, 50, 18, #fedfbe
+pendown
+goto, -90, -10, 20, #fedfbe
+
+penup
+goto, 100, -15, 18, #fedfbe
+pendown
+goto, 90, 15, 20, #fedfbe
+penup
+
+goto, -100, -15, 18, #fedfbe
+pendown
+goto, -90, 15, 20, #fedfbe
+penup
+
+goto, -5, 0, 120, #8fce00
+pendown
+goto, 5, 0, 120, #8fce00
+penup
+
+goto, -6, 50, 7, #709c0d
+pendown
+goto, 6, 50, 7, #709c0d
+penup
+
+penup
+goto, -25, 160, 130, black
+pendown
+goto, 25, 160, 130, black
+penup
+
+goto, -65, 150, 50, black
+pendown
+goto, -65, 105, 50, black
+penup
+
+goto, 65, 150, 50, black
+pendown
+goto, 65, 105, 50, black
+penup
+
+goto, -79, 110, 25, #595959
+pendown
+goto, 79, 110, 25, #595959
+penup
+
+goto, -120, 90, 25, black
+pendown
+goto, 120, 90, 25, black
+penup
+
+goto, 4, 130, 4, #6aa84f
+pendown
+goto, 4, 70, 4, #6aa84f
+penup
+
+goto, 4, 70, 4, #6aa84f
+pendown
+goto, 0, 50, 4, #6aa84f
+penup
+
+goto, 4, 115, 8, #5e9447
+pendown
+goto, 70, 70, 8, #5e9447
+penup
+
+goto, 9, 112, 10, #5e9447
+pendown
+goto, 65, 73, 10, #5e9447
+penup
+
+goto, 14, 109, 12, #5e9447
+pendown
+goto, 60, 76, 12, #5e9447
+penup
+
+goto, 19, 106, 14, #5e9447
+pendown
+goto, 55, 79, 14, #5e9447
+penup
+
+goto, 24, 103, 16, #5e9447
+pendown
+goto, 50, 82, 16, #5e9447
+penup
+
+goto, 29, 100, 18, #5e9447
+pendown
+goto, 45, 85, 18, #5e9447
+penup
+
+goto, 34, 97, 20, #5e9447
+pendown
+goto, 40, 88, 20, #5e9447
+penup
+
+goto, 39, 97, 22, #5e9447
+pendown
+goto, 35, 91, 22, #5e9447
+penup
+
+goto, 44, 91, 24, #5e9447
+pendown
+goto, 30, 94, 24, #5e9447
+penup
+
+goto, 49, 85, 24, #5e9447
+pendown
+goto, 30, 97, 24, #5e9447
+penup
+
+goto, 4, 115, 2, #4a6c3b
+pendown
+goto, 70, 70, 2, #4a6c3b
+penup
+
+goto, 19, 106, 2, #4a6c3b
+pendown
+goto, 22, 91, 2, #4a6c3b
+penup
+
+goto, 34, 97, 2, #4a6c3b
+pendown
+goto, 37, 82, 2, #4a6c3b
+penup
+
+goto, 53, 82, 2, #4a6c3b
+pendown
+goto, 53, 75, 2, #4a6c3b
+penup
+
+goto, 19, 106, 2, #4a6c3b
+pendown
+goto, 32, 106, 2, #4a6c3b
+penup
+
+goto, 34, 97, 2, #4a6c3b
+pendown
+goto, 47, 97, 2, #4a6c3b
+penup
+
+goto, 53, 82, 2, #4a6c3b
+pendown
+goto, 62, 82, 2, #4a6c3b
+penup
+
+goto, -35, 25, 25, #9cdb0c
+pendown
+goto, -30, 25, 25, #9cdb0c
+penup
